@@ -18,6 +18,6 @@ async def get_user(user):
                     "first_name": user_data[1],
                     "last_name": user_data[2],
                     "username": user_data[3],
-                    "blocked": user_data[6],
+                    "blocked": user_data[4],
                 }
             return user_db
