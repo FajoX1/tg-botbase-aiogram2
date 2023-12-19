@@ -17,7 +17,7 @@
 ### 📃 Edit config
 
 <b>Put bot token and your id in <code>config.py</code></b><br>
-> <i>Your id you can find from <a href="https://t.me/username_to_id_bot">@username_to_id_bot</a></i>
+<i>Your id you can find from <a href="https://t.me/username_to_id_bot">@username_to_id_bot</a></i>
 
 ### ⚡️ Start
 
@@ -25,7 +25,8 @@
 
 <hr>
 
-## 🛠 Bugs and Issues
 </div>
+
+## 🛠 Bugs and Issues
 
 ### <a href="https://t.me/FajoX">Telegram</a>
