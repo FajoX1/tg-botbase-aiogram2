@@ -1,6 +1,6 @@
 <div align="center">
-🤖 Telegram bot base for Aiogram 2.x
-==============================
+  
+# 🤖 Telegram bot base for Aiogram 2.x
 
 <i>Bot base for Telegram bots on Aiogram 2.x</i>
 
@@ -27,4 +27,5 @@
 
 ## 🛠 Bugs and Issues
 </div>
+
 ### <a href="https://t.me/FajoX">Telegram</a>
