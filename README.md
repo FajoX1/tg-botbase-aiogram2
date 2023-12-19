@@ -1,9 +1,10 @@
+<div align="center">
 🤖 Telegram bot base for Aiogram 2.x
 ==============================
 
-> Bot base for Telegram bots on Aiogram 2.x
+<i>Bot base for Telegram bots on Aiogram 2.x</i>
 
-<h2 align="center">🚀 How to start</h2>
+<h2>🚀 How to start</h2>
 
 ### ⬇️ Clone repository
 
@@ -25,5 +26,5 @@
 <hr>
 
 ## 🛠 Bugs and Issues
-
+</div>
 ### <a href="https://t.me/FajoX">Telegram</a>
