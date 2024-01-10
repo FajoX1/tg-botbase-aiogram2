@@ -29,4 +29,4 @@
 
 ## 🛠 Bugs and Issues
 
-### <a href="https://t.me/FajoX">Telegram</a>
+### <a href="https://t.me/vecax">Telegram</a>
