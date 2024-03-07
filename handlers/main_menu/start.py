@@ -4,7 +4,7 @@ from keyboard.main_menu.start import start_kb
 
 from database.control import users
 
-@dp.message_handler(commands="/start")
+@dp.message_handler(commands="start")
 async def start(message):
 
     user_id = message.from_user.id
